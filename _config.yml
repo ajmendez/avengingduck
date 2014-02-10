@@ -6,8 +6,8 @@ author :
   github : ajmendez
   twitter : ajmendez
 
-url: "ajmendez.github.io"
-baseurl: "ajmendez.github.io/avengingduck"
+url: ajmendez.github.io
+baseurl: /avengingduck
 markdown: redcarpet
 pygments: true
 paginate: 5
